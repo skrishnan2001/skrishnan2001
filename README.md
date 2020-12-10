@@ -1,4 +1,4 @@
-### Hello, I'm Krishnan S 👋
+### Hello I'm Krishnan S, currently pursuing my B.Tech in Information Technology from College of Engineering, Guindy, Anna University 👋
 
 <!--
 **skrishnan2001/skrishnan2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
