@@ -1,5 +1,5 @@
 ### Welcome to my GitHub profile
-### I'm Krishnan S👋
+### I'm Krishnan S <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **skrishnan2001/skrishnan2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
