@@ -8,6 +8,9 @@
     <a href="https://github.com/skrishnan2001">
       <img align="left" alt="Krishnan's GitHub" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /> 
     </a>
+    <a href="https://www.hackerrank.com/skrishnan2001">
+      <img align="left" alt="Krishnan's HackerRank" width="32px" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/lqlkg85sw4sgmp2xvznh" /> 
+    </a>
   </div>
   <div>
     <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" />
