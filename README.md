@@ -23,11 +23,11 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br/>
 <br/>
-📈 My GitHub Stats
-<p align="left"> 
+<div>
+  <p>📈 My GitHub Stats</p>
   <img src="https://github-readme-stats.vercel.app/api?username=skrishnan2001&show_icons=true&theme=gotham" alt="skrishnan2001" width="40%" height="500" />
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="320" />
-</p>
+</div>
 <!--
 **skrishnan2001/skrishnan2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
