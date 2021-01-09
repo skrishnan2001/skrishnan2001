@@ -1,10 +1,9 @@
-### Welcome to my GitHub profile
-### I'm Krishnan S <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Welcome to my GitHub profile! I'm Krishnan S <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/krishnan-s-32a18a1aa/">
   <img align="left" alt="Krishnan's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 <a href="https://github.com/skrishnan2001">
   <img align="left" alt="Krishnan's GitHub" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /> 
- <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" >
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" >
  <br/>
  <br/>
    
