@@ -6,7 +6,6 @@
 <a href="https://github.com/skrishnan2001">
   <img align="left" alt="Krishnan's GitHub" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /> 
 </a>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  <br/>
  <br/>
    
@@ -25,10 +24,8 @@
 <br/>
 <br/>
 📈 My GitHub Stats
-<br/>
-<br/>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=skrishnan2001&show_icons=true&theme=gotham" alt="skrishnan2001" />
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!--
 **skrishnan2001/skrishnan2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
