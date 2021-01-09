@@ -1,13 +1,20 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=skrishnan2001.skrishnan2001)
 ### Welcome to my GitHub profile! I'm Krishnan S <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/krishnan-s-32a18a1aa/">
-  <img align="left" alt="Krishnan's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://github.com/skrishnan2001">
-  <img align="left" alt="Krishnan's GitHub" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /> 
-</a>
- <br/>
- <br/>
+<div>
+  <div>
+    <a href="https://www.linkedin.com/in/krishnan-s-32a18a1aa/">
+      <img align="left" alt="Krishnan's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    </a>
+    <a href="https://github.com/skrishnan2001">
+      <img align="left" alt="Krishnan's GitHub" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /> 
+    </a>
+  </div>
+  <div>
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="320" />
+  </div>
+</div>
+<br/>
+<br/>
    
 **Languages and Tools I know :**
 
@@ -25,8 +32,7 @@
 <br/>
 <div>
   <p>📈 My GitHub Stats</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=skrishnan2001&show_icons=true&theme=gotham" alt="skrishnan2001" width="40%" height="500" />
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="320" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skrishnan2001&show_icons=true&theme=gotham" alt="skrishnan2001" width="40%" />
 </div>
 <!--
 **skrishnan2001/skrishnan2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
