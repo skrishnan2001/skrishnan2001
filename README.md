@@ -1,5 +1,5 @@
-### Welcome to my GitHub profile! I'm Krishnan S <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">![](https://visitor-badge.glitch.me/badge?page_id=skrishnan2001.skrishnan2001)
-
+![](https://visitor-badge.glitch.me/badge?page_id=skrishnan2001.skrishnan2001)
+### Welcome to my GitHub profile! I'm Krishnan S <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/krishnan-s-32a18a1aa/">
   <img align="left" alt="Krishnan's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
