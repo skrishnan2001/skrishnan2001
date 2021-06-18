@@ -9,7 +9,7 @@
       <img align="left" alt="Krishnan's GitHub" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /> 
     </a>
     <a href="https://www.hackerrank.com/skrishnan2001">
-      <img align="left" alt="Krishnan's HackerRank Profile" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" /> 
+      <img align="left" alt="Krishnan's HackerRank Profile" width="32px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" /> 
     </a>
     <a href="https://www.codechef.com/users/skrishnan2001">
       <img align="left" alt="Krishnan's Codechef Profile" width="32px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" /> 
