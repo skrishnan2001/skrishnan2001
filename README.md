@@ -8,6 +8,15 @@
     <a href="https://github.com/skrishnan2001">
       <img align="left" alt="Krishnan's GitHub" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /> 
     </a>
+    <a href="https://www.hackerrank.com/skrishnan2001">
+      <img align="left" alt="Krishnan's HackerRank Profile" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" /> 
+    </a>
+    <a href="https://www.codechef.com/users/skrishnan2001">
+      <img align="left" alt="Krishnan's Codechef Profile" width="32px" src="https://miro.medium.com/max/333/1*1W0-bbmt4iiEpp_pPrS0VQ.png" /> 
+    </a>
+    <a href="https://leetcode.com/skrishnan2001/">
+      <img align="left" alt="Krishnan's Leetcode Profile" width="32px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFvx45x7j4Zhg/company-logo_200_200/0/1519864832328?e=2159024400&v=beta&t=bn7GubuOuUXMKQ6YZxs23WZMabMviFMT7grLqM6_TC0" /> 
+    </a>
   </div>
   <div>
     <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" />
@@ -16,7 +25,7 @@
 <br/>
 <br/>
    
-**Languages and Tools I know :**
+**Languages and tools that I know :**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
