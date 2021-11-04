@@ -6,8 +6,6 @@
     <a href="https://www.linkedin.com/in/krishnan-s-32a18a1aa/">
     <img align="left" alt="Krishnan's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
-    <a href="https://github.com/skrishnan2001">
-    <img align="left" alt="Krishnan's GitHub" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /> 
     </a>
     <a href="https://www.hackerrank.com/skrishnan2001">
     <img align="left" alt="Krishnan's HackerRank Profile" width="32px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" /> 
