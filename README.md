@@ -2,7 +2,7 @@
 
 <img src="Header.png" alt="Header" />
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Krishnan S </h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Krishnan S </h1>
 <p align="center" width="150px"> I'm an IT undergrad at College of Engineering, Guindy, Anna University</p>
 
 ### 🛠 &nbsp;Tech Stack
