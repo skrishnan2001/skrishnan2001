@@ -3,26 +3,30 @@
 <img src="Header.png" alt="Header" />
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Krishnan S </h1>
-<p align="center" width="150px"> I'm an IT undergrad at College of Engineering, Guindy, Anna University</p>
+<!-- <p align="center" width="150px"> I'm an IT undergrad at College of Engineering, Guindy, Anna University</p> -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&color=403D3DF0&background=38FF7F00&center=true&vCenter=true&width=600&lines=IT+Undergrad+%40+CEG+-+Anna+University;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer" alt="Typing SVG" /></a>
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
 <div>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /></code>
+<!--     <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"></code> -->
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></code>
 </div>
 <br/>
 <p>📈 My GitHub Stats</p>
