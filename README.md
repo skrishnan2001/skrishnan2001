@@ -1,8 +1,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=skrishnan2001.skrishnan2001)
 
-<img src="header.png" alt="Header" />
+<img src="https://github.com/skrishnan2001/skrishnan2001/blob/main/Header.png" alt="Header" />
 
-<!-- <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Krishnan </h1> -->
+<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Krishnan </h1>
 <!-- <p align="center" width="150px"> I'm an IT undergrad at College of Engineering, Guindy, Anna University</p> -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&color=403D3DF0&background=38FF7F00&center=true&vCenter=true&width=500&height=30&lines=IT+Undergrad+%40+CEG-Anna+University;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer" alt="Typing SVG" /></a>
