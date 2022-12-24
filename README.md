@@ -47,7 +47,7 @@
 <a href="mailto:skrishnan2001@gmail.com"><img src="https://img.shields.io/badge/-skrishnan2001@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/krishnan-s-32a18a1aa/"><img src="https://img.shields.io/badge/-Krishnan%20S-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/skrishnan2001"><img src="https://img.shields.io/badge/-Hacker%20Rank-32CD32?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/skrishnan2001"><img src="https://img.shields.io/badge/-Code%20Chef-%23964B00.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/im_the_game"><img src="https://img.shields.io/badge/-Code%20Chef-%23964B00.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 <a href="https://leetcode.com/skrishnan2001/"><img src="https://img.shields.io/badge/-Leet%20Code-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <!-- <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="500px"/>
