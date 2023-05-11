@@ -1,4 +1,6 @@
-![](https://visitor-badge.glitch.me/badge?page_id=skrishnan2001.skrishnan2001)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=skrishnan2001.skrishnan2001) -->
+![](https://komarev.com/ghpvc/?username=skrishnan2001&style=for-the-badge)
+
 
 <img src="https://github.com/skrishnan2001/skrishnan2001/blob/main/Header.png" alt="Header" />
 
