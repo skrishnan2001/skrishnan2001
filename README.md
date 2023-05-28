@@ -37,7 +37,7 @@
 <table style="border-collapse: collapse; border: none">
     <tr style="border: none">
         <td style="border: none">
-            <img src="https://github-readme-stats.vercel.app/api?username=skrishnan2001&show_icons=true&theme=gotham" alt="skrishnan2001"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=skrishnan2001&count_private=true&include_all_commits=true&show_icons=true&theme=gotham" alt="skrishnan2001"/>
         </td>
         <td style="border: none">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skrishnan2001&layout=compact&theme=gotham" alt="Languages-Used" />
