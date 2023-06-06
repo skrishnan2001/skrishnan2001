@@ -7,7 +7,7 @@
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Krishnan </h1>
 <!-- <p align="center" width="150px"> I'm an IT undergrad at College of Engineering, Guindy, Anna University</p> -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&color=403D3DF0&background=38FF7F00&center=true&vCenter=true&width=500&height=30&lines=IT+Undergrad+%40+CEG-Anna+University;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&color=403D3DF0&background=38FF7F00&center=true&vCenter=true&width=500&height=30&lines=B.Tech.+IT+%40+CEG-Anna+University;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer" alt="Typing SVG" /></a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
